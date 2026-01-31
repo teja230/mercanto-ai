@@ -8,6 +8,7 @@
     "build": "vite build",
     "preview": "vite preview",
     "test": "echo \"No tests specified\" && exit 0"
+    "test": "echo \"No tests specified\" && exit 0"
   },
   "dependencies": {
     "@google/genai": "^1.26.0",
